@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://zjuqni.com">
-    <img src="./assets/header.png" alt="zJuqni — Software, sistemas y experiencias. Java, Python, web y Minecraft." width="100%">
+    <img src="https://raw.githubusercontent.com/zjuqni/zjuqni/main/assets/header.png" alt="zJuqni — Software, sistemas y experiencias. Java, Python, web y Minecraft." width="100%">
   </a>
 </p>
 
@@ -25,14 +25,14 @@ Mi trabajo va de aplicaciones web y de escritorio a automatización, integracion
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://zjuqni.com/#minecraft-projects"><img src="./assets/geoware.png" alt="GeoWare World, evento de HexaCreators" width="100%"></a>
+      <a href="https://zjuqni.com/#minecraft-projects"><img src="https://raw.githubusercontent.com/zjuqni/zjuqni/main/assets/geoware.png" alt="GeoWare World, evento de HexaCreators" width="100%"></a>
       <h3>GeoWare World</h3>
       <p>Cuatro minijuegos originales para un evento en directo con creadores, dentro de HexaCreators.</p>
       <p><sub>Java 21 · Fabric · Cliente y servidor</sub></p>
       <a href="https://zjuqni.com/#minecraft-projects">Ver el evento y los minijuegos</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://zjuqni.com/#software-projects"><img src="./assets/docupilot.png" alt="DocuPilot: documentos, PDF, OCR y lectura por voz" width="100%"></a>
+      <a href="https://zjuqni.com/#software-projects"><img src="https://raw.githubusercontent.com/zjuqni/zjuqni/main/assets/docupilot.png" alt="DocuPilot: documentos, PDF, OCR y lectura por voz" width="100%"></a>
       <h3>DocuPilot</h3>
       <p>Conversión de documentos, formularios PDF, OCR y lectura por voz. Los archivos se procesan en tu equipo.</p>
       <p><sub>Tauri · React · TypeScript</sub></p>
@@ -41,14 +41,14 @@ Mi trabajo va de aplicaciones web y de escritorio a automatización, integracion
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://zjuqni.com/#software-projects"><img src="./assets/beyond.png" alt="Beyond: sala de cine virtual en 3D" width="100%"></a>
+      <a href="https://zjuqni.com/#software-projects"><img src="https://raw.githubusercontent.com/zjuqni/zjuqni/main/assets/beyond.png" alt="Beyond: sala de cine virtual en 3D" width="100%"></a>
       <h3>Beyond</h3>
       <p>Un prototipo de cine compartido: catálogo, selección grupal y una sala 3D con asientos y presencia de invitados.</p>
       <p><sub>React · Three.js · Cloudflare</sub></p>
       <a href="https://zjuqni.com/#software-projects">Entrar al proyecto</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://modrinth.com/mod/soundpixel-mod"><img src="./assets/soundpixel.png" alt="SoundPixel: audio personalizado para Minecraft" width="100%"></a>
+      <a href="https://modrinth.com/mod/soundpixel-mod"><img src="https://raw.githubusercontent.com/zjuqni/zjuqni/main/assets/soundpixel.png" alt="SoundPixel: audio personalizado para Minecraft" width="100%"></a>
       <h3>SoundPixel</h3>
       <p>Un mod y su plugin compañero para reproducir audio personalizado del servidor sin resource pack.</p>
       <p><sub>Java · Fabric · Paper / Spigot</sub></p>
@@ -62,14 +62,14 @@ También construyo sistemas de gestión, catálogos, integraciones con APIs y to
 ### Con qué construyo
 
 <p>
-  <img src="./assets/stack/java-classic.png" alt="Java" title="Java" width="32" height="32">
-  <img src="./assets/stack/python.png" alt="Python" title="Python" width="32" height="32">
-  <img src="./assets/stack/javascript.png" alt="JavaScript" title="JavaScript" width="32" height="32">
-  <img src="./assets/stack/typescript.png" alt="TypeScript" title="TypeScript" width="32" height="32">
-  <img src="./assets/stack/react.png" alt="React" title="React" width="32" height="32">
-  <img src="./assets/stack/nodejs.png" alt="Node.js" title="Node.js" width="32" height="32">
-  <img src="./assets/stack/postgresql.png" alt="PostgreSQL" title="PostgreSQL" width="32" height="32">
-  <img src="./assets/stack/docker.png" alt="Docker" title="Docker" width="32" height="32">
+  <img src="https://raw.githubusercontent.com/zjuqni/zjuqni/main/assets/stack/java-classic.png" alt="Java" title="Java" width="32" height="32">
+  <img src="https://raw.githubusercontent.com/zjuqni/zjuqni/main/assets/stack/python.png" alt="Python" title="Python" width="32" height="32">
+  <img src="https://raw.githubusercontent.com/zjuqni/zjuqni/main/assets/stack/javascript.png" alt="JavaScript" title="JavaScript" width="32" height="32">
+  <img src="https://raw.githubusercontent.com/zjuqni/zjuqni/main/assets/stack/typescript.png" alt="TypeScript" title="TypeScript" width="32" height="32">
+  <img src="https://raw.githubusercontent.com/zjuqni/zjuqni/main/assets/stack/react.png" alt="React" title="React" width="32" height="32">
+  <img src="https://raw.githubusercontent.com/zjuqni/zjuqni/main/assets/stack/nodejs.png" alt="Node.js" title="Node.js" width="32" height="32">
+  <img src="https://raw.githubusercontent.com/zjuqni/zjuqni/main/assets/stack/postgresql.png" alt="PostgreSQL" title="PostgreSQL" width="32" height="32">
+  <img src="https://raw.githubusercontent.com/zjuqni/zjuqni/main/assets/stack/docker.png" alt="Docker" title="Docker" width="32" height="32">
 </p>
 
 - **Base:** Java, Python, JavaScript y TypeScript.
@@ -113,4 +113,5 @@ Explore my work at **[zjuqni.com](https://zjuqni.com)**. For commissions or coll
   Software a medida, tooling, eventos y experiencias interactivas.<br><br>
   <a href="mailto:zjuqni1001@gmail.com">zjuqni1001@gmail.com</a> &nbsp; / &nbsp; Discord: <code>zjuqni</code>
 </p>
+
 

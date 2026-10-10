@@ -1,98 +1,84 @@
-<!-- Perfil de zJuqni. Las imágenes viven en este mismo repositorio. -->
+<!-- Perfil de zJuqni. Assets y diseño en este repositorio. -->
 
 <p align="center">
   <a href="https://zjuqni.com">
-    <img src="https://raw.githubusercontent.com/zjuqni/zjuqni/main/assets/header.png" alt="zJuqni — Software, sistemas y experiencias. Java, Python, web y Minecraft." width="100%">
+    <picture>
+      <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/zjuqni/zjuqni/main/assets/nocturne-mobile.png">
+      <img src="https://raw.githubusercontent.com/zjuqni/zjuqni/main/assets/nocturne.png" alt="Hola, soy zJuqni. Desarrollo software a medida, mods, plugins y experiencias para eventos." width="100%">
+    </picture>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://zjuqni.com"><strong>Portafolio</strong></a>
-  &nbsp; / &nbsp;
-  <a href="https://modrinth.com/user/zjuqni">Modrinth</a>
-  &nbsp; / &nbsp;
-  <a href="mailto:zjuqni1001@gmail.com">Hablemos</a>
+  <a href="https://zjuqni.com"><strong>Portafolio</strong></a> &nbsp; ✦ &nbsp;
+  <a href="https://modrinth.com/user/zjuqni">Mods y plugins</a> &nbsp; ✦ &nbsp;
+  <a href="mailto:zjuqni1001@gmail.com">Contacto</a>
 </p>
 
-## Hola, soy zJuqni.
+## Un poco de mí
 
-Desarrollo **software a medida, herramientas y experiencias interactivas**. Me gusta conectar la lógica que hay detrás de un sistema con lo que una persona ve, usa o juega.
+Soy **zJuqni**, desarrollador de software. Construyo herramientas que resuelven problemas y sistemas que hacen posible una experiencia: una aplicación, una interfaz dentro del juego o un minijuego para un evento en directo.
 
-Mi trabajo va de aplicaciones web y de escritorio a automatización, integraciones y desarrollo para **Minecraft**: mods, plugins, interfaces y minijuegos para comunidades y eventos en directo.
+Trabajo con **Java, Python, JavaScript y TypeScript**. Me interesan la automatización, el desarrollo de mods y plugins, y todo lo que conecta código con comunidades.
 
-### Algunas ideas que convertí en proyectos
+## De mi taller
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://zjuqni.com/#minecraft-projects"><img src="https://raw.githubusercontent.com/zjuqni/zjuqni/main/assets/geoware.png" alt="GeoWare World, evento de HexaCreators" width="100%"></a>
-      <h3>GeoWare World</h3>
-      <p>Cuatro minijuegos originales para un evento en directo con creadores, dentro de HexaCreators.</p>
-      <p><sub>Java 21 · Fabric · Cliente y servidor</sub></p>
-      <a href="https://zjuqni.com/#minecraft-projects">Ver el evento y los minijuegos</a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://zjuqni.com/#software-projects"><img src="https://raw.githubusercontent.com/zjuqni/zjuqni/main/assets/docupilot.png" alt="DocuPilot: documentos, PDF, OCR y lectura por voz" width="100%"></a>
-      <h3>DocuPilot</h3>
-      <p>Conversión de documentos, formularios PDF, OCR y lectura por voz. Los archivos se procesan en tu equipo.</p>
-      <p><sub>Tauri · React · TypeScript</sub></p>
-      <a href="https://zjuqni.com/#software-projects">Explorar el producto</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://zjuqni.com/#software-projects"><img src="https://raw.githubusercontent.com/zjuqni/zjuqni/main/assets/beyond.png" alt="Beyond: sala de cine virtual en 3D" width="100%"></a>
-      <h3>Beyond</h3>
-      <p>Un prototipo de cine compartido: catálogo, selección grupal y una sala 3D con asientos y presencia de invitados.</p>
-      <p><sub>React · Three.js · Cloudflare</sub></p>
-      <a href="https://zjuqni.com/#software-projects">Entrar al proyecto</a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://modrinth.com/mod/soundpixel-mod"><img src="https://raw.githubusercontent.com/zjuqni/zjuqni/main/assets/soundpixel.png" alt="SoundPixel: audio personalizado para Minecraft" width="100%"></a>
-      <h3>SoundPixel</h3>
-      <p>Un mod y su plugin compañero para reproducir audio personalizado del servidor sin resource pack.</p>
-      <p><sub>Java · Fabric · Paper / Spigot</sub></p>
-      <a href="https://modrinth.com/mod/soundpixel-mod">Ver mod</a> · <a href="https://modrinth.com/plugin/soundpixel-plugin">Ver plugin</a>
-    </td>
-  </tr>
-</table>
+<a href="https://zjuqni.com/#minecraft-projects"><img src="https://raw.githubusercontent.com/zjuqni/zjuqni/main/assets/geoware-feature.png" alt="GeoWare World, de HexaCreators: cuatro minijuegos originales para un evento en directo. Java 21 y Fabric." width="100%"></a>
 
-También construyo sistemas de gestión, catálogos, integraciones con APIs y tooling interno. Puedes ver la selección completa en **[mi portafolio](https://zjuqni.com/#projects)**.
+**[GeoWare World](https://zjuqni.com/#minecraft-projects)** — Desarrollé cuatro minijuegos originales para este evento de **HexaCreators**. Lógica de rondas, estados del jugador y sistemas de cliente y servidor para que las partidas funcionen en directo.
 
-### Con qué construyo
+<a href="https://zjuqni.com/#software-projects"><img src="https://raw.githubusercontent.com/zjuqni/zjuqni/main/assets/docupilot-feature.png" alt="DocuPilot: herramientas para documentos que se procesan en tu equipo. PDF, conversión, OCR y lectura por voz." width="100%"></a>
+
+**[DocuPilot](https://zjuqni.com/#software-projects)** — Mi caja de herramientas para documentos: conversión, formularios PDF, OCR y lectura por voz. Construida con **Tauri, React y TypeScript**, con procesamiento local.
+
+<p align="center"><a href="https://zjuqni.com/#projects"><strong>Más trabajos en mi portafolio</strong></a></p>
+
+## Código y comunidad
 
 <p>
-  <img src="https://raw.githubusercontent.com/zjuqni/zjuqni/main/assets/stack/java-classic.png" alt="Java" title="Java" width="32" height="32">
-  <img src="https://raw.githubusercontent.com/zjuqni/zjuqni/main/assets/stack/python.png" alt="Python" title="Python" width="32" height="32">
-  <img src="https://raw.githubusercontent.com/zjuqni/zjuqni/main/assets/stack/javascript.png" alt="JavaScript" title="JavaScript" width="32" height="32">
-  <img src="https://raw.githubusercontent.com/zjuqni/zjuqni/main/assets/stack/typescript.png" alt="TypeScript" title="TypeScript" width="32" height="32">
-  <img src="https://raw.githubusercontent.com/zjuqni/zjuqni/main/assets/stack/react.png" alt="React" title="React" width="32" height="32">
-  <img src="https://raw.githubusercontent.com/zjuqni/zjuqni/main/assets/stack/nodejs.png" alt="Node.js" title="Node.js" width="32" height="32">
-  <img src="https://raw.githubusercontent.com/zjuqni/zjuqni/main/assets/stack/postgresql.png" alt="PostgreSQL" title="PostgreSQL" width="32" height="32">
-  <img src="https://raw.githubusercontent.com/zjuqni/zjuqni/main/assets/stack/docker.png" alt="Docker" title="Docker" width="32" height="32">
+  <a href="https://discord.gg/hexacreators-comunidad-721214796783157278"><img src="https://raw.githubusercontent.com/zjuqni/zjuqni/main/assets/teams/hexacreators.png" alt="HexaCreators" title="HexaCreators" width="48" height="48"></a> &nbsp;
+  <a href="https://discord.gg/kQDu4P2y3q"><img src="https://raw.githubusercontent.com/zjuqni/zjuqni/main/assets/teams/webo.webp" alt="Webo Team" title="Webo Team" width="48" height="48"></a> &nbsp;
+  <a href="https://discord.gg/hexastudio"><img src="https://raw.githubusercontent.com/zjuqni/zjuqni/main/assets/teams/hexa.webp" alt="HexaCore Studios" title="HexaCore Studios" width="48" height="48"></a> &nbsp;
+  <a href="https://discord.gg/TWQUW2qxYU"><img src="https://raw.githubusercontent.com/zjuqni/zjuqni/main/assets/teams/capybara.webp" alt="Capibara Studio" title="Capibara Studio" width="48" height="48"></a>
 </p>
 
-- **Base:** Java, Python, JavaScript y TypeScript.
-- **Productos:** React, Node.js, Spring, PostgreSQL y MySQL.
-- **Minecraft:** Fabric, Forge, Paper, Spigot y Velocity.
-- **Entorno:** IntelliJ IDEA, VS Code, Git, Gradle, Docker y Linux.
+**Developer en HexaCreators**, director y fundador de **Webo Team**, developer en **HexaCore Studios** y manager / jefe developer en **Capibara Studio**. Parte de mi trabajo también está en encargos privados y herramientas internas.
 
-### Lo que me mueve
+## Mi caja de herramientas
 
-Me interesan los sistemas interactivos, las experiencias 3D y las herramientas que hacen más fácil un proceso. Minecraft es uno de mis espacios para experimentar: desde una interfaz pequeña hasta un evento completo.
+<p>
+  <img src="https://raw.githubusercontent.com/zjuqni/zjuqni/main/assets/stack/java-classic.png" alt="Java" title="Java" width="36" height="36">
+  <img src="https://raw.githubusercontent.com/zjuqni/zjuqni/main/assets/stack/python.png" alt="Python" title="Python" width="36" height="36">
+  <img src="https://raw.githubusercontent.com/zjuqni/zjuqni/main/assets/stack/javascript.png" alt="JavaScript" title="JavaScript" width="36" height="36">
+  <img src="https://raw.githubusercontent.com/zjuqni/zjuqni/main/assets/stack/typescript.png" alt="TypeScript" title="TypeScript" width="36" height="36">
+  <br><br>
+  <img src="https://raw.githubusercontent.com/zjuqni/zjuqni/main/assets/stack/react.png" alt="React" title="React" width="36" height="36">
+  <img src="https://raw.githubusercontent.com/zjuqni/zjuqni/main/assets/stack/nodejs.png" alt="Node.js" title="Node.js" width="36" height="36">
+  <img src="https://raw.githubusercontent.com/zjuqni/zjuqni/main/assets/stack/postgresql.png" alt="PostgreSQL" title="PostgreSQL" width="36" height="36">
+  <img src="https://raw.githubusercontent.com/zjuqni/zjuqni/main/assets/stack/docker.png" alt="Docker" title="Docker" width="36" height="36">
+</p>
 
-La música también tiene su lugar. Mi portafolio tiene su propia banda sonora; puedes **[abrirlo y escucharla](https://zjuqni.com)** mientras exploras mis trabajos.
+**Mods y servidores:** Fabric, Forge, Paper, Spigot y Velocity.  
+**Aplicaciones y datos:** React, Node.js, Spring, PostgreSQL y MySQL.  
+**En el escritorio:** IntelliJ IDEA, VS Code, Git, Gradle, Docker y Linux.
 
 <details>
-<summary><strong>Un poco de mí, en código</strong></summary>
+<summary><strong>☾ Modo noche</strong></summary>
 
-```java
-var zjuqni = Map.of(
-    "build", List.of("software", "tools", "interactive experiences"),
-    "playground", List.of("Minecraft", "3D", "custom interfaces"),
-    "soundtrack", "la del portafolio",
-    "discord", "zjuqni"
-);
+<p align="center">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/zjuqni/zjuqni/main/assets/night-still.png">
+    <img src="https://raw.githubusercontent.com/zjuqni/zjuqni/main/assets/source/night-moon.gif" alt="La luna entre nubes y árboles, la escena nocturna de mi portafolio" width="480" height="270">
+  </picture>
+</p>
+
+Música de fondo, código y alguna idea nueva. La escena de arriba es la que acompaña mi portafolio; **[puedes visitarlo y escuchar su banda sonora](https://zjuqni.com)**. Cierra este desplegable para ocultar la animación.
+
+```yaml
+alias: zJuqni
+intereses: [mods, plugins, herramientas, sistemas interactivos]
+soundtrack: la del portafolio
+discord: zjuqni
 ```
 
 </details>
@@ -100,18 +86,15 @@ var zjuqni = Map.of(
 <details>
 <summary><strong>English, briefly</strong></summary>
 
-I'm **zJuqni**, a software developer building custom applications, internal tools and interactive experiences. I work with Java, Python, JavaScript and TypeScript, from web and desktop products to Minecraft mods, plugins and live-event minigames.
+I'm **zJuqni**, a software developer building custom applications, tools, Minecraft mods, plugins and minigames for live events. My main languages are Java, Python, JavaScript and TypeScript.
 
-Explore my work at **[zjuqni.com](https://zjuqni.com)**. For commissions or collaborations, reach me on Discord as **zjuqni** or by [email](mailto:zjuqni1001@gmail.com).
+I developed four minigames for **GeoWare World** at HexaCreators and built **DocuPilot**, a local document toolkit. Explore more at **[zjuqni.com](https://zjuqni.com)**.
 
 </details>
 
 ---
 
 <p align="center">
-  <strong>¿Tienes una idea que quieres construir?</strong><br>
-  Software a medida, tooling, eventos y experiencias interactivas.<br><br>
-  <a href="mailto:zjuqni1001@gmail.com">zjuqni1001@gmail.com</a> &nbsp; / &nbsp; Discord: <code>zjuqni</code>
+  <strong>Tu próxima idea puede empezar con un mensaje.</strong><br><br>
+  Discord: <code>zjuqni</code> &nbsp; ✦ &nbsp; <a href="mailto:zjuqni1001@gmail.com">zjuqni1001@gmail.com</a>
 </p>
-
-

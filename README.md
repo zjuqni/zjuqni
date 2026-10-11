@@ -70,12 +70,13 @@ Trabajo con **Java, Python, JavaScript y TypeScript**. Me interesan la automatiz
   </picture>
 </p>
 
-Mira mi portafolio en: [zJuqni](https://zjuqni.com)**. Cierra este desplegable para ocultar la animación.
+Mira mi portafolio en: [zJuqni](https://zjuqni.com). Algunos datos acerca de mi:
 
 ```yaml
 alias: zJuqni
 intereses: [mods, plugins, herramientas, sistemas interactivos]
 discord: zjuqni
+age: 16 years old
 ```
 
 </details>

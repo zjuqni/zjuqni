@@ -4,7 +4,7 @@
   <a href="https://zjuqni.com">
     <picture>
       <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/zjuqni/zjuqni/main/assets/nocturne-mobile.png">
-      <img src="https://raw.githubusercontent.com/zjuqni/zjuqni/main/assets/nocturne.png" alt="Hola, soy zJuqni. Desarrollo software a medida, mods, plugins y experiencias para eventos." width="100%">
+      <img src="https://raw.githubusercontent.com/zjuqni/zjuqni/main/assets/nocturne.png" alt="Hola, soy zJuqni. Desarrollo software a medida, mods, plugins y experiencias para eventos." width="110%">
     </picture>
   </a>
 </p>
@@ -38,11 +38,9 @@ Trabajo con **Java, Python, JavaScript y TypeScript**. Me interesan la automatiz
 <p>
   <a href="https://discord.gg/hexacreators-comunidad-721214796783157278"><img src="https://raw.githubusercontent.com/zjuqni/zjuqni/main/assets/teams/hexacreators.png" alt="HexaCreators" title="HexaCreators" width="48" height="48"></a> &nbsp;
   <a href="https://discord.gg/kQDu4P2y3q"><img src="https://raw.githubusercontent.com/zjuqni/zjuqni/main/assets/teams/webo.webp" alt="Webo Team" title="Webo Team" width="48" height="48"></a> &nbsp;
-  <a href="https://discord.gg/hexastudio"><img src="https://raw.githubusercontent.com/zjuqni/zjuqni/main/assets/teams/hexa.webp" alt="HexaCore Studios" title="HexaCore Studios" width="48" height="48"></a> &nbsp;
-  <a href="https://discord.gg/TWQUW2qxYU"><img src="https://raw.githubusercontent.com/zjuqni/zjuqni/main/assets/teams/capybara.webp" alt="Capibara Studio" title="Capibara Studio" width="48" height="48"></a>
 </p>
 
-**Developer en HexaCreators**, director y fundador de **Webo Team**, developer en **HexaCore Studios** y manager / jefe developer en **Capibara Studio**. Parte de mi trabajo también está en encargos privados y herramientas internas.
+**Developer en HexaCreators**, director, fundador y jefe-developer de **Webo Team**.
 
 ## Mi caja de herramientas
 
@@ -72,12 +70,11 @@ Trabajo con **Java, Python, JavaScript y TypeScript**. Me interesan la automatiz
   </picture>
 </p>
 
-Música de fondo, código y alguna idea nueva. La escena de arriba es la que acompaña mi portafolio; **[puedes visitarlo y escuchar su banda sonora](https://zjuqni.com)**. Cierra este desplegable para ocultar la animación.
+Mira mi portafolio en: [zJuqni](https://zjuqni.com)**. Cierra este desplegable para ocultar la animación.
 
 ```yaml
 alias: zJuqni
 intereses: [mods, plugins, herramientas, sistemas interactivos]
-soundtrack: la del portafolio
 discord: zjuqni
 ```
 

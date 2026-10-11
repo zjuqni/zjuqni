@@ -4,7 +4,7 @@
   <a href="https://zjuqni.com">
     <picture>
       <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/zjuqni/zjuqni/main/assets/nocturne-mobile.png">
-      <img src="https://raw.githubusercontent.com/zjuqni/zjuqni/main/assets/nocturne.png" alt="Hola, soy zJuqni. Desarrollo software a medida, mods, plugins y experiencias para eventos." width="110%">
+      <img src="https://raw.githubusercontent.com/zjuqni/zjuqni/main/assets/nocturne.png" alt="Hola, soy zJuqni. Desarrollo software a medida, mods, plugins y experiencias para eventos." width="100%">
     </picture>
   </a>
 </p>
@@ -17,7 +17,7 @@
 
 ## Un poco de mí
 
-Soy **zJuqni**, desarrollador de software. Construyo herramientas que resuelven problemas y sistemas que hacen posible una experiencia: una aplicación, una interfaz dentro del juego o un minijuego para un evento en directo.
+Mi nombre es zJuqni, tengo 16 años y soy desarrollador de software. Construyo herramientas que resuelven problemas y sistemas que hacen posible una experiencia: una aplicación, una interfaz dentro del juego o un minijuego para un evento en directo.
 
 Trabajo con **Java, Python, JavaScript y TypeScript**. Me interesan la automatización, el desarrollo de mods y plugins, y todo lo que conecta código con comunidades.
 
@@ -25,7 +25,7 @@ Trabajo con **Java, Python, JavaScript y TypeScript**. Me interesan la automatiz
 
 <a href="https://zjuqni.com/#minecraft-projects"><img src="https://raw.githubusercontent.com/zjuqni/zjuqni/main/assets/geoware-feature.png" alt="GeoWare World, de HexaCreators: cuatro minijuegos originales para un evento en directo. Java 21 y Fabric." width="100%"></a>
 
-**[GeoWare World](https://zjuqni.com/#minecraft-projects)** — Desarrollé cuatro minijuegos originales para este evento de **HexaCreators**. Lógica de rondas, estados del jugador y sistemas de cliente y servidor para que las partidas funcionen en directo.
+**[GeoWare World](https://zjuqni.com/#minecraft-projects)** — Desarrollé cuatro minijuegos originales para este evento de [HexaCreators](https://x.com/Geovents). Lógica de rondas, estados del jugador y sistemas de cliente y servidor para que las partidas funcionen en directo.
 
 <a href="https://zjuqni.com/#software-projects"><img src="https://raw.githubusercontent.com/zjuqni/zjuqni/main/assets/docupilot-feature.png" alt="DocuPilot: herramientas para documentos que se procesan en tu equipo. PDF, conversión, OCR y lectura por voz." width="100%"></a>
 
